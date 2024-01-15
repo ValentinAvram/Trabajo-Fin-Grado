@@ -1,0 +1,14 @@
+Mejores: Wilcoxon ACO vs FLS: Diferencias significativas. T-value:874.5, p-value: 2.3207451469233683e-08 con alfa: 0.05 
+Peores: Wilcoxon GLS vs FA: Diferencias significativas. T-value:0.0, p-value: 3.896559845095909e-18 con alfa: 0.05 
+
+Friedman caso: 5 Peores. Algoritmos: GLS vs FA vs DE vs GS vs BHA. Hay diferencias significativas entre los algoritmos. Estadístico: 279.9200000000001, p-value: 2.3186767320497493e-59 con alfa: 0.05 
+Friedman caso: 3 Mejores. Algoritmos: ACO vs FLS vs TS. Hay diferencias significativas entre los algoritmos. Estadístico: 35.883248730964496, p-value: 1.6145501588606058e-08 con alfa: 0.05 
+Friedman caso: 5 Mejores. Algoritmos: ACO vs FLS vs TS vs GA vs AIS. Hay diferencias significativas entre los algoritmos. Estadístico: 212.42168674698806, p-value: 8.00673614600103e-45 con alfa: 0.05 
+Friedman caso: 10 Mejores. Algoritmos: ACO vs FLS vs TS vs GA vs AIS vs RFD vs VNS vs CSA vs SS vs CAO. Hay diferencias significativas entre los algoritmos. Estadístico: 590.4511196067726, p-value: 2.345442468293107e-121 con alfa: 0.05 
+Friedman caso: Híbridos. Algoritmos: CA vs VNS vs GLS. Hay diferencias significativas entre los algoritmos. Estadístico: 200.0, p-value: 3.7200759760208177e-44 con alfa: 0.05 
+Friedman caso: Evolutivos. Algoritmos: GA vs DE vs ICA vs AIS. Hay diferencias significativas entre los algoritmos. Estadístico: 261.25199999999995, p-value: 2.409748940456591e-56 con alfa: 0.05 
+Friedman caso: Búsqueda Local. Algoritmos: FLS vs BLS vs TS vs GLS. Hay diferencias significativas entre los algoritmos. Estadístico: 182.84258324924332, p-value: 2.1457163294257014e-39 con alfa: 0.05 
+Friedman caso: Enjambre. Algoritmos: ACO vs BCO vs PSO vs CSA vs HS. Hay diferencias significativas entre los algoritmos. Estadístico: 386.34400000000005, p-value: 2.4811495716125862e-82 con alfa: 0.05 
+Friedman caso: Poblacionales. Algoritmos: PSO vs GA vs CA vs ICA vs AIS vs ACO vs BCO vs RFD vs BA vs IWO. Hay diferencias significativas entre los algoritmos. Estadístico: 819.2923813564458, p-value: 1.4942531929625332e-170 con alfa: 0.05 
+Friedman caso: Naturales. Algoritmos: ACO vs BCO vs FA vs RFD vs BA vs IWO. Hay diferencias significativas entre los algoritmos. Estadístico: 475.78022292083443, p-value: 1.3467940934951608e-100 con alfa: 0.05 
+Friedman caso: Todos. Algoritmos: ACO vs TS vs GA vs VNS vs FLS vs RFD vs BLS vs SimAn vs SS vs ICA vs CSA vs AIS vs CA vs CAO vs BCO vs RS vs DE vs HS vs IWO vs BA vs BHA vs GS vs PSO vs FA vs GLS. Hay diferencias significativas entre los algoritmos. Estadístico: 2207.770753268934, p-value: 0.0 con alfa: 0.05 
