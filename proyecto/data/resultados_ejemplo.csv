@@ -1,0 +1,10 @@
+Test,Estadístico,Valor p,alfa,Resultado
+Wilcoxon Mejores,874.5,2.3207451469233683e-08,0.05,Diferencias significativas
+Wilcoxon Peores,0.0,3.8965598450959084e-18,0.05,Diferencias significativas
+Friedman Mejores,8739.026684615079,0.0,0.05,Diferencias significativas
+Friedman Peores,127790.11066361456,0.0,0.05,Diferencias significativas
+Friedman Naturales,52727.891290630505,0.0,0.05,Diferencias significativas
+Friedman Poblacionales,20540.948451874443,0.0,0.05,Diferencias significativas
+Friedman Trayectorias,62336.231566849616,0.0,0.05,Diferencias significativas
+Friedman Evolutivos,46509.6181238127,0.0,0.05,Diferencias significativas
+Friedman Todos,4978.474302102186,0.0,0.05,Diferencias significativas
